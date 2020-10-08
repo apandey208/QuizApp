@@ -1,3 +1,3 @@
-import questionare from './questionare';
+import Questionare from './Questionare';
 
-export {questionare};
+export {Questionare};
